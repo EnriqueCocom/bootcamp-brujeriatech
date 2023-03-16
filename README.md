@@ -31,15 +31,15 @@ En el curso de programación en vivo vamos a ver las siguientes cosas:
 5. Inglés para programación
 6. Pseudocódigo (Pseint)
 7. Introducción a Python
-   i. Básicos
-   ii. Estructura de control
-   iii. Colecciones TODAS
-   iv. Comprensión de listas
-   v. Funciónes
-   vi. Módulos
-   vii. Entornos virtuales
-   vii. Bibliotecas
-   ix. Errores y Excepciones
+   1. Básicos
+   2. Estructura de control
+   3. Colecciones TODAS
+   4. Comprensión de listas
+   5. Funciónes
+   6. Módulos
+   7. Entornos virtuales
+   8. Bibliotecas
+   9. Errores y Excepciones
 8. Algoritmos
 9.  Estructura de datos
 10. Productividad de código (shotcuts and snippets)
@@ -58,11 +58,12 @@ En el curso de programación en vivo vamos a ver las siguientes cosas:
 4. Flask
    1. Introducción a Flask
    2. JSON
-   3. Página web en Flask
-   4. REST API en Flask
-   5. Subir a producción
-      1. Azure
-      2. Anaconda Anywhere
+   3. Introducción a HTML
+   4. Página web en Flask
+   5. REST API en Flask
+   6. Subir a producción
+        1. Azure
+        2. Anaconda Anywhere
 5. Fast API
 6. Django
    1. Introducción a Django
