@@ -1,65 +1,107 @@
-# Hola :smile: me llamo Enrique Cocom
+# Cursos de Programación
+## Desde cero, en español y se quedan grabados.
 
-### Soy un desarrollador web y desarrollador de software, apasionado por la tecnología. Sigueme en [@enriquecocom](https://www.instagram.com/enrique_cocom04/)
+[Aquí puedes entrar a las sesiones](https://www.twitch.tv/brujeriatech)
 
-![LETRERO DE UNDER CONSTRUCTION](https://ps.w.org/easy-under-construction/assets/banner-772x250.png?rev=2417171)
+[Aqui puedes ver las sesiones grabadas](https://youtube.com/playlist?list=PLtuKa5gcqmZpyhewmuZGdADXXYOF6MfFt)
+## Horarios:
+Lunes, miercoles y viernes 07:00 p.m (19 hrs) hora de la Ciudad de México.
 
-------------
+- 7:00 p.m Ciudad de México, Guatemala, El Salvador, Costa Rica, Honduras, Nicaragua.
+- 8:00 p.m Colombia, Perú, Panama, Cuba.
+- 10:00 pm Chile, Argentina 
+- 2h España
+- 9:00 p.m Bolivia
+- 5:00 p.m Estados Unidos
+## ¿Qué es lo que veremos?
 
-- :man_technologist: Give a look to the programing courses repository (Revisa el repositorio de los cursos de programación):
-  - [Curso de programación desde cero, en español y gratis](https://github.com/josejesusguzman/bootcamp-programacion-brujeriatech)
+En el curso de programación en vivo vamos a ver las siguientes cosas:
 
-------------
+**NOTA:** No necesariamente va a ser una clase por tema
 
-> "Toda tecnología lo suficientemente avanzada es indistinguible de la magia" - Arthur C. Clark - Escritor de ciencia ficción
+### Nivel 1 - Intro a la programación
+1. Introducción a Git y GitHub
+    i.[Código markdown de ejemplo del readme](docs/ejemplo_readme.md)
+2. Prework
+3. Introducción a la logica de programación
+4. Matemáticas para programación
+   i. Matemáticas discretas
+   ii. Algebra
+   iii. Aritmética.
+5. Inglés para programación
+6. Pseudocódigo (Pseint)
+7. Introducción a Python
+   i. Básicos
+   ii. Estructura de control
+   iii. Colecciones TODAS
+   iv. Comprensión de listas
+   v. Funciónes
+   vi. Módulos
+   vii. Entornos virtuales
+   vii. Bibliotecas
+   ix. Errores y Excepciones
+8. Algoritmos
+9.  Estructura de datos
+10. Productividad de código (shotcuts and snippets)
 
-> "Si lo puedes imaginar, lo puedes programar" - Alejandro Taboada Sánchez - Programación ATS.
+### Nivel 2 - Intermedio de Python
 
-------------
+1. Programación orientada a objetos en Python
+   1. Clases
+   2. Herencia
+   3. Polimorfismo
+   4. Encapsulamioento
+2. Bibliotecas estandar de Python
+3. Bases de datos
+   1. SQL - MySQL
+   2. NoSQL - MongoDB
+4. Flask
+   1. Introducción a Flask
+   2. JSON
+   3. Página web en Flask
+   4. REST API en Flask
+   5. Subir a producción
+      1. Azure
+      2. Anaconda Anywhere
+5. Fast API
+6. Django
+   1. Introducción a Django
+   2. Intro a HTML y CSS
+   3. Plantillas
+   4. Backend y Frontend
 
-### Acerca de mi
-1. Actualmente estoy aprendiendo Inteligencia Artificial, Android, Programming y ciencia de datos.
+### Nivel 3 - Ciencia de datos de Python
+### Nivel 4 - Modelo de aprendizaje supervisados (IA)
 
-2. Regularmente me la paso conociendo más acerca de las tecnologias que existen en: https://maletadeviajes.com/category/maleta-tech/
+### Nivel 5 - Modelo de aprendizaje no supervisados (IA)
 
-``` Python
-# Esto es un diccionario en Python
-acerca_de_mi = {
-  Perros: True,
-  Gatos: False,
-  Country: "Mexican",
-  Age: 24,
-  City: "Mérida City",
-  main_languages: ["Python", "Java", "React", "JavaScript", "CSS"],
-  Secondary_languages: [ "Android", "SQL", "Angular", "C & C++"]
+### Nivel 6 - Inteligencia artificial aplicada a imagenes y video (Computer vision)
 
-}
+### Nivel 7 - Redes neuronales
 
-```
+### Nivel 8 Subir a producción una IA y Scoring
 
-### Sigueme en Tiktok: 
-**@enriquecocom**
+### Nivel 9 - Introducción a desarrollo web
+1. Introducción a HTML
+2. Introducción a CSS
+3. Introducción a JavaScrip
 
-[![TEXTO ALTERNATIVO](imagenes/tik-tok.png)](https://www.tiktok.com/@enrique04codm)
+### Nivel 10 - Intermedio de JavaScript
 
-*210 seguidores*
+### Nivel 11 - Introducción a React
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pO2-jhu5IXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Nivel 12 - Componentes en React
 
-## Todos los cursos, estan en las plataformas, al mismo tiempo
+### Nivel 13 - Proyecto productivo en React
 
-| Cursos  | Plataforma | ¿Costo? |
-|----------|-----------|---------|
-[Fundamentos de programación en Python](https://ucamp.io/curso-python/)| UCamp | Con Costo |
-[Bootcamp en Cienca de datos e Inteligencia Artificial](https://ucamp.io/curso-ciencia-de-datos/)| UCamp | Con Costo |
-| Ciberseguridad y fundamentos de hacking ético|[Suscripción en Twitch o Miembro de Youtube](https://www.twitch.tv/brujeriatech) | Con Costo|
-| Curso de programación desde cero, en español y gratis |[Twitch(Grabaciones en Youtube)](https://www.twitch.tv/brujeriatech)| Gratis
+### Nivel 14 - Unit testing
+1. Debuggin
+### Nivel 15 - Introducción a Backend con Node.js
 
+### Nivel 16 - Introducción a Express
 
+### Nivel 17 - Bases de datos y Node
 
+### Nivel 18 - Introducción a TypeScript
 
-
-
-
-
-
+### Nivel 19 - Docker y Kubernetes
