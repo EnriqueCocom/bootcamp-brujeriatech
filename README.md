@@ -39,6 +39,7 @@ acerca_de_mi = {
 
 ### Sigueme en Tiktok: 
 **@enriquecocom**
+
 [![TEXTO ALTERNATIVO](imagenes/tik-tok.png)](https://www.tiktok.com/@enrique04codm)
 
 *210 seguidores*
