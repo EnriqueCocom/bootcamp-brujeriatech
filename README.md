@@ -9,10 +9,10 @@ Lunes, miercoles y viernes 07:00 p.m (19 hrs) hora de la Ciudad de México.
 
 - 7:00 p.m Ciudad de México, Guatemala, El Salvador, Costa Rica, Honduras, Nicaragua.
 - 8:00 p.m Colombia, Perú, Panama, Cuba.
-- 10:00 pm Chile, Argentina 
-- 2h España
-- 9:00 p.m Bolivia
-- 5:00 p.m Estados Unidos
+- 10:00 pm Chile, Argentina.
+- 2h España.
+- 9:00 p.m Bolivia.
+- 5:00 p.m Estados Unidos.
 ## ¿Qué es lo que veremos?
 
 En el curso de programación en vivo vamos a ver las siguientes cosas:
@@ -21,13 +21,15 @@ En el curso de programación en vivo vamos a ver las siguientes cosas:
 
 ### Nivel 1 - Intro a la programación
 1. Introducción a Git y GitHub
-    i.[Código markdown de ejemplo del readme](docs/ejemplo_readme.md)
+   1.[Código markdown de ejemplo del readme](docs/ejemplo_readme.md)
 2. Prework
+   1. [Todos los link de descargas de herramientas](docs/prework.md)
 3. Introducción a la logica de programación
+   1. [Ejercicios de logica de programación](docs/algoritmos_lógica_programacion.md)
 4. Matemáticas para programación
-   i. Matemáticas discretas
-   ii. Algebra
-   iii. Aritmética.
+   1. Matemáticas discretas
+   2. Algebra
+   3. Aritmética.
 5. Inglés para programación
 6. Pseudocódigo (Pseint)
 7. Introducción a Python
