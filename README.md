@@ -21,7 +21,7 @@ En el curso de programación en vivo vamos a ver las siguientes cosas:
 
 ### Nivel 1 - Intro a la programación
 1. Introducción a Git y GitHub
-   1.[Código markdown de ejemplo del readme](docs/ejemplo_readme.md)
+   1. [Código markdown de ejemplo del readme](docs/ejemplo_readme.md)
 2. Prework
    1. [Todos los link de descargas de herramientas](docs/prework.md)
 3. Introducción a la logica de programación
