@@ -10,3 +10,8 @@ Instalar y dejar todo listo tu entorno de programación para comenzar a trabajar
 5. Descargar PSeInt --> https://pseint.sourceforge.net/?page=descargas.php
 6. Descargar VirtualBox --> https://www.virtualbox.org/wiki/Downloads
 7. Descargar Kali Linux --> https://www.kali.org/get-kali/
+8. Descargar MongoDB --> https://www.mongodb.com/try/download/community
+9. Descargar MySQL --> https://dev.mysql.com/downloads/installer/
+10. Descargar MySQL Workbench --> https://www.mysql.com/products/workbench/
+11. Descargar Azure CLI --> https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+12. Descargar Docker --> https://www.docker.com/products/docker-desktop/
