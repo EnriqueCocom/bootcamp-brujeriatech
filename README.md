@@ -85,9 +85,11 @@ En el curso de programación en vivo vamos a ver las siguientes cosas:
 ### Nivel 8 Subir a producción una IA y Scoring
 
 ### Nivel 9 - Introducción a desarrollo web
-1. Introducción a HTML
-2. Introducción a CSS
-3. Introducción a JavaScrip
+1. Diseño de interfaces
+2. Diseño de experiencias
+3. Introducción a HTML
+4. Introducción a CSS
+5. Introducción a JavaScrip
 
 ### Nivel 10 - Intermedio de JavaScript
 
