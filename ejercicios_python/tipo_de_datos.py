@@ -1,21 +1,16 @@
 # Tipos de datos
-
 dato = "5" # Una cadena de caracteres o string o cadena de texto
 print(dato + dato)
-
 dato = 5 # númerico - Entero sin decimales
 print(dato + dato)
-
 dato = 5.0 # númerico - Flotante - Con punto decimal
 print(dato + dato)
-
-dato = False # Booleano - Verdadero o Falso - True o False
+dato = False # Booleano - Verdero o falso - True o False
 print(dato + dato)
 
 # La función exit cierra el programa de python
 print("💖")
 print("你好世界")
-exit()
 
 
 cinco = "5"
@@ -43,4 +38,6 @@ print(f"Hola, mi nombre es {nombre} y tengo {edad} años")
 
 print("Hola, mi nombre es " + nombre + " y tengo " + str(edad) + " años")
 
-print(_name_)
+
+print(__name__)
+
