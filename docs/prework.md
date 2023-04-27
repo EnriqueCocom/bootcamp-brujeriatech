@@ -145,7 +145,7 @@ Por defecto esta instalado python.
    node --version
    ```
 > Opcional: Verificar la casilla para instalar chocolatey.
-  </details>
+   </details>
 
   <details>
   <summary>Linux</summary>
@@ -156,17 +156,17 @@ Por defecto esta instalado python.
   sudo apt install nodejs -y
   ```
 
-  1. Para instalar npm
+  3. Para instalar npm
   ```
   sudo apt install npm -y
   ```
 
-  1. Para verifivar node
+  4. Para verifivar node
   ```
   nodejs --version
   ```
 
-  1. Para verificar npm
+  5. Para verificar npm
   ```
   npm --version
   ```
@@ -209,9 +209,9 @@ Por defecto esta instalado python.
   1. descargar el archivo .pkg
   2. Ingresar a la carpeta bin
   3. Doble clic en:
-  - install compass
-  - mongodb
-  - mongos
+- install compass
+- mongodb
+- mongos
 
   Community edition
 
@@ -300,9 +300,9 @@ Por defecto esta instalado python.
    <details>
     <summary>Linux</summary>
 
-   5. Escoger el archivo conforme a la distribución
-   6. Seguir instrucciones del sitio web
-   7. Para verificar que este instalado.
+   1. Escoger el archivo conforme a la distribución
+   2. Seguir instrucciones del sitio web
+   3. Para verificar que este instalado.
     ```
     az
     ```
@@ -311,7 +311,7 @@ Por defecto esta instalado python.
    <details>
    <summary>MacOS</summary>
 
-   1.Colocar el comando para descarga y actualización de homebrew
+   1. Colocar el comando para descarga y actualización de homebrew
     ```
     brew update && brew install azure-cli
     ```
