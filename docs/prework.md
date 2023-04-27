@@ -14,6 +14,7 @@ Estos son los enlaces e instrucciones para cada herramienta
 
 <details>
 <summary>Windows</summary>
+
 1. Descargar el ejecutable en su ultima versión.
 2. Seguir las instrucciones y configuración por defecto.
 3. Abrir un terminal de CMD.
@@ -25,6 +26,7 @@ Estos son los enlaces e instrucciones para cada herramienta
 
 <details>
 <summary>Linux</summary>
+
 1. Abrir un terminal.
 2. Colocar el comando segun la distribución.
    ```
@@ -42,12 +44,13 @@ yum install git
 
 <details>
 <summary>MacOS</summary>
+
 1. Abrir un terminal
 2. Colocar el comando
 ```
 brew install git
 ```
-1. Verificar la instalación
+3. Verificar la instalación
    ```
    git --version
    ```
@@ -57,6 +60,7 @@ brew install git
 
 <details>
 <summary>Windows</summary>
+
 Microsoft Store
 1. Abrir la Microsoft Store.
 2. Buscar Visual studio code.
@@ -66,6 +70,7 @@ Microsoft Store
 
 <details>
 <summary>Linux</summary>
+
 1. Descargar el archivo .deb
 2. Colocar el comando.
    ```
@@ -75,6 +80,7 @@ Microsoft Store
 
 <details>
 <summary>MacOS</summary>
+
 1. Abrir un terminal
 2. Colocar el comando
    ```
@@ -86,6 +92,7 @@ Microsoft Store
 
 <details>
 <summary>Windows</summary>
+
 Microsoft Store
 1. Abrir la Microsoft Store.
 2. Buscar Python.
@@ -104,6 +111,7 @@ Ejecutable
 
 <details>
 <summary>Linux</summary>
+
 Por defecto esta instalado python.
 1. Abrir una terminal
 2. Para verificar que este instalado.
@@ -114,6 +122,7 @@ Por defecto esta instalado python.
 
 <details>
 <summary>MacOS</summary>
+
 1. Descargar la ultima versión
 2. Abrir el archivo .pkg y seguir las instrucciónes
 3. Verificar la instalación
@@ -128,20 +137,20 @@ Por defecto esta instalado python.
 
   <details>
   <summary>Windows</summary>
+
   1. Descargar el ejecutable en su ultima versión (LTS)
   2. Seguir las instrucciones y configuración por defecto.
+  3. Para verificar la instalación.
+   ```
+   node --version
+   ```
 > Opcional: Verificar la casilla para instalar chocolatey.
-  1. Para verificar la instalación.
-     ```
-     node --version
-     ```
   </details>
 
   <details>
   <summary>Linux</summary>
 
   1. Abrir una terminal.
-
   2. Para instalar node.
   ```
   sudo apt install nodejs -y
@@ -178,12 +187,14 @@ Por defecto esta instalado python.
 
   <details>
   <summary>Windows</summary>
+
   1. Descargar el ejecutable en su ultima versión (LTS)
   2. Seguir las instrucciones y configuración por defecto
   </details>
 
   <details>
   <summary>Linux</summary>
+
   1. Abrir una terminal.
   2. Colocar el comando.
    ```
@@ -193,8 +204,8 @@ Por defecto esta instalado python.
 
   <details>
   <summary>MacOS</summary>
-  mongodb community server
 
+  mongodb community server
   1. descargar el archivo .pkg
   2. Ingresar a la carpeta bin
   3. Doble clic en:
@@ -222,6 +233,7 @@ Por defecto esta instalado python.
 
 <details>
    <summary>Windows</summary>
+
    1. Descargar el ejecutable en su ultima versión
    2. Seguir las instrucciones
 > Nota: se pedira crear las credenciales del server, guardarlas para conectarse despues.
@@ -229,6 +241,7 @@ Por defecto esta instalado python.
 
 <details>
 <summary>Linux</summary>
+
    1. Descargar el archivo .deb
    2. cd Downloads
    3. Colocar los comandos
@@ -236,10 +249,10 @@ Por defecto esta instalado python.
    sudo apt install -y wget
    sudo apt install ./nombre archivo .deb
    ```
-    </details>
+   </details>
 
    <details>
-   <summary>Mac</summary>
+   <summary>MacOS</summary>
 
    mongodb community server
    1. Abrir una terminal
@@ -247,16 +260,24 @@ Por defecto esta instalado python.
     ```
     brew install mysql
     ```
-   3. Actualizar homebrew
-    </details>
+   3. Actualizar homebrew.
+   </details>
 
 - MySQL Workbench --> https://www.mysql.com/products/workbench/
 
   <details>
     <summary>Windows</summary>
-   1. Descargar el ejecutable en su ultima versión
+
+   1. Descargar el ejecutable en su ultima versión.
    2. Seguir las instrucciones
-    </details>
+   3. Descargar el ejecutable en su ultima versión.
+   4. seguir instrucciones
+   5. Abrir un CMD
+   6. Para verificar que este instalado.
+    ```
+    az
+    ```
+   </details>
 
 - MySQL Installer --> https://dev.mysql.com/downloads/installer/
 
@@ -264,13 +285,13 @@ Por defecto esta instalado python.
 
 - Azure CLI --> https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
-  <details>
-    <summary>Windows</summary>
+   <details>
+   <summary>Windows</summary>
 
-   1. Descargar el ejecutable en su ultima versión.
-   2. seguir instrucciones
+   1. Descargar el ejecutable en su ultima versión
+   2. Seguir instrucciones
    3. Abrir un CMD
-   4. Para verificar que este instalado.
+   4. Para verificar
     ```
     az
     ```
@@ -279,34 +300,34 @@ Por defecto esta instalado python.
    <details>
     <summary>Linux</summary>
 
-   1. Escoger el archivo conforme a la distribución
-   2. Seguir instrucciones del sitio web
-   3. Para verificar que este instalado.
+   5. Escoger el archivo conforme a la distribución
+   6. Seguir instrucciones del sitio web
+   7. Para verificar que este instalado.
     ```
     az
     ```
-> Nota: si no se instalo, aparace una pregunta para poder hacerlo, introducir y/Y.
    </details>
 
    <details>
-   <summary>MacOS</summary> 
+   <summary>MacOS</summary>
 
-   1. Colocar el comando para descarga y actualización de homebrew
-   ```
-   brew update && brew install azure-cli
-   ```
+   1.Colocar el comando para descarga y actualización de homebrew
+    ```
+    brew update && brew install azure-cli
+    ```
    2. Si pide reinstalar
     ```
     brew reinstall azure-cli
     ```
+   3. Para iniciar sesión en Azure colocar
+   ```
+   az login
+    ```
+  Se abrirar una pestaña de tu navegador iniciar sesión en tu cuenta de Azure y estara terminado el proceso
    </details>
 
-    Para iniciar sesión en Azure escriba en CMD
-    ```
-    az login
-    ```
+> Nota: si no se instalo, aparace una pregunta para poder hacerlo, introducir y/Y.
 
-  Se abrirar una pestaña de tu navegador iniciar sesión en tu cuenta de Azure y estara terminado el proceso
 
 - Docker --> https://www.docker.com/products/docker-desktop/
 
@@ -321,6 +342,7 @@ Por defecto esta instalado python.
 
     <details>
     <summary>Linux</summary>
+
    1. Abrir una terminal
    2. Colocar el comando
    ```
@@ -330,10 +352,12 @@ Por defecto esta instalado python.
 
     <details>
     <summary>MacOS</summary>
+
    1. Seguir las instrucciones del sitio web
-    </details>
 
 Cabe aclarar que las instrucciones para Linux son para distribuciones basadas en debian; en caso de tener una diferente siga las instrucciones que vienen en cada sitio web
+    </details>
+
 
 ## Homebrew
 
